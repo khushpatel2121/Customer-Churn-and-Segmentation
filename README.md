@@ -1,0 +1,3 @@
+#Customer Churn Prediction#
+
+*This project entails building a machine learning model to predict customer churn and segment customers based on their likelihood to churn. By analyzing historical customer data, including demographics, usage patterns, and interactions, the model identifies patterns indicative of potential churn. It then categorizes customers into different groups based on their churn probability, facilitating targeted retention efforts. The model's effectiveness is evaluated using metrics like accuracy, precision, recall, and AUC-ROC curve. Ultimately, this predictive and segmentation model empowers businesses to preemptively address churn and enhance customer retention strategies.*
